@@ -3,7 +3,6 @@ dash_core_components
 dash_html_components
 dash_bootstrap_components
 plotly
-gunicorn
 whitenoise
 joblib==1.0.0
 pandas==1.1.5
