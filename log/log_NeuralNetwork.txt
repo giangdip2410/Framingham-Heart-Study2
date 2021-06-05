@@ -1,0 +1,3 @@
+AUC score : 0.551589789520824
+Accuracy score : 0.714622641509434
+params : {'activation': 'tanh', 'alpha': 1.2597747225718078e-05, 'hidden_layer_sizes': 48, 'solver': 'lbfgs'}

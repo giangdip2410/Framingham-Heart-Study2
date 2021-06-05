@@ -1,0 +1,3 @@
+AUC score : 0.5923308837384587
+Accuracy score : 0.7971698113207547
+params : None

@@ -1,0 +1,3 @@
+AUC score : 0.5835317325352017
+Accuracy score : 0.6297169811320755
+params : {'solver': 'lbfgs', 'penalty': 'l2', 'C': 0.05777983969344998}
